@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToluCogito
-- 👀 I’m interested in Digital Marketing with focus on Search Engine Optimization
-- 🌱 I’m currently learning Digital Strategy 
+- 👀 I’m interested in Product Management with focus on User Experience Writing
+- 🌱 I’m currently learning Javascript, HTML and CSS
 - 💞️ I’m looking to collaborate on product research, campaign strategy, planning and execution
 - 📫 You can reach me via +2348185405486 or tsinaolulana@gmail.com
 
