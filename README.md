@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ToluCogito
-- 👀 I’m interested in Product Management with focus on User Experience Writing
-- 🌱 I’m currently learning Javascript, HTML and CSS
+- 👋 Hi, I’m Tolulope Sina-Olulana [  @ToluCogito  ]
+- 👀 I’m a digital marketing specialist with focus on User experience, Social media marketing and SEO
+- 🌱 I am familiar with Javascript, HTML and CSS 
 - 💞️ I’m looking to collaborate on product research, campaign strategy, planning and execution
-- 📫 You can reach me via +2348185405486 or tsinaolulana@gmail.com
+- 📫 You can reach me via +2348137605789 or tsinaolulana@gmail.com
 
 <!---
 ToluCogito/ToluCogito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
